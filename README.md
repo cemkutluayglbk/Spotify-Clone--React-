@@ -16,8 +16,8 @@ This project is a React application that mimics Spotify's basic interface and mu
 # Installation
 
 1. Clone the project:
-   "
-   git clone ([https://github.com/cemkutluayglbk/Spotify-Clone--React-](https://github.com/cemkutluayglbk/Spotify-Clone--React-))
+   ```
+   git clone https://github.com/cemkutluayglbk/Spotify-Clone--React-?tab=readme-ov-file#spotify-clone--react--1
    
    ```
 
