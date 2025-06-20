@@ -28,7 +28,7 @@ This project is a React application that mimics Spotify's basic interface and mu
 
 3. **Start the project:
    ```
-   npm start
+   npm run dev
    ```
 
 4. **Open it in the browser:
